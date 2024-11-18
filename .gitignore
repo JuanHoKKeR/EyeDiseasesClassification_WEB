@@ -1,0 +1,7 @@
+/avenv2
+/Dataset
+/Dataset/ocular-disease.zip
+/web_app/__pycache__
+/Model/efficientnetb3-Eye Disease-95.77.h5
+/Model/efficientnetb3-Eye Disease-weights.h5
+/web_app/efficientnetb3-Eye Disease-95.77.h5
